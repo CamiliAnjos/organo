@@ -10,7 +10,6 @@ function Banner() {
           alt="O banner principal da página do Organo"
         />
       </header>
-      <h1>teste</h1>
     </>
   );
 }
